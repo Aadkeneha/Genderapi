@@ -1,0 +1,64 @@
+body{
+  background-color: #F87171;
+}
+.card{
+    box-shadow:0 4px 8px 0 navy; 
+    width:50%; 
+    height:480px; 
+    border-radius:15px; 
+    margin:auto;
+    background-color: #E0E7FF;
+    color: black;
+    margin-top: 3rem;
+}
+
+h1,div{
+      text-align: center;
+      padding-top: 1rem;
+}
+
+label{
+      font-size: large;
+      margin:1rem;
+}
+
+input{
+    font-size: large;
+    text-align: center;
+    border-radius: 0.4rem;
+    height: 30px;
+    display: block;
+    margin: auto;
+}
+
+button{
+  border-radius: 0.3rem;
+  padding:0.5rem;
+  width:20%;
+  background-color: #7C3AED;
+  color: white;
+  display:block;
+  margin: auto;
+  margin-top: 1rem;
+}
+
+#output{
+    font-size: x-large;
+    text-align: center;
+    font-style: italic;
+    margin: 1rem;
+} 
+
+#testtable{
+  margin-left: auto; 
+  margin-right: auto;
+  text-align: center;
+}
+
+td{
+  margin: auto;
+  font-size: x-large;
+  text-align: center;
+  font-style: italic;
+  border: 1px solid #7C3AED;
+}
